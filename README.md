@@ -69,6 +69,7 @@ https://photoshop-master.ru/adds/web-design/21684-web-dizayn-zvzdnyie-voynyi.htm
 
 ### Motivation:
 https://habr.com/ru/post/117333/
+https://youtu.be/_HEnohs6yYw
 
 ### Time managment:
 https://lifehacker.ru/2016/02/12/infografika-10-time-killers/
