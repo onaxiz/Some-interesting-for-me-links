@@ -135,6 +135,9 @@ https://lifehacker.ru/10-znamenitostey-kotorye-malo-spali/
 https://habr.com/ru/post/277529/
 https://habr.com/ru/post/51130/
 
+### Instruments
+https://www.instapaper.com/
+
 ###Art: 
 https://web-paint.ru/uroki-risovaniya/urok-4-uchimsya-risovat-trexmernyj-kub.html
 
