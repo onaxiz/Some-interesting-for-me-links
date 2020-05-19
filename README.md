@@ -55,7 +55,8 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 http://diveintohtml5.info/  
 http://codenamecrud.ru/  
 https://github.com/sorrycc/awesome-javascript  
-http://htmlbook.ru/css/float  
+http://htmlbook.ru/css/float
+http://www.net-f.ru/item/seo/
 
 ### Design:
 https://dribbble.com/
