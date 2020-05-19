@@ -60,7 +60,8 @@ https://github.com/sorrycc/awesome-javascript
 http://htmlbook.ru/css/float
 http://www.net-f.ru/item/seo/
 https://learn.javascript.ru/https://www.w3schools.com/js/js_htmldom_css.asp
-https://habr.com/ru/post/277753/
+https://habr.com/ru/post/277753/  
+https://habr.com/ru/company/mr_gefest/blog/280370/
 
 ### Design:
 https://dribbble.com/
