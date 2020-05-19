@@ -6,14 +6,14 @@ https://github.com/ripienaar/free-for-dev#paas just use this repo there are 400+
 
 ### MOOC
 https://medium.com/  
-https://geekbrains.ru/courses
-https://javarush.ru/
-https://www.sololearn.com/
-https://vectree.ru/main
+https://geekbrains.ru/courses  
+https://javarush.ru/  
+https://www.sololearn.com/  
+https://vectree.ru/main  
 
 ### Programming:
 https://ru.stackoverflow.com/  
-https://qna.habr.com/
+https://qna.habr.com/  
 
 
 ### Games
@@ -39,10 +39,11 @@ http://www.dungeonsanddevelopers.com/
 https://codecombat.com/play  
 
 ### Java:
-https://docs.oracle.com/javase/tutorial/reallybigindex.html
+https://docs.oracle.com/javase/tutorial/reallybigindex.html  
 
 ### Security
-https://www.securitylab.ru/news/tags/%E1%EE%F2%ED%E5%F2/
+https://www.securitylab.ru/news/tags/%E1%EE%F2%ED%E5%F2/  
+https://habr.com/ru/post/344762/  
 
 ### Botnets:
 
@@ -110,26 +111,26 @@ https://hack.me/
 
 
 ### Librarys and news feeds:
-https://www.piter.com/collection/biblioteka-programmista
-https://tproger.ru/
-https://mybiblioteka.su/
+https://www.piter.com/collection/biblioteka-programmista  
+https://tproger.ru/  
+https://mybiblioteka.su/  
 
-### Search information:
-http://forundex.ru/
+### Search information:  
+http://forundex.ru/  
 
-### Forums that I needed once:
-https://programmersforum.ru/
-http://khpi-iip.mipk.kharkiv.edu/library/index.html
+### Forums that I needed once:  
+https://programmersforum.ru/  
+http://khpi-iip.mipk.kharkiv.edu/library/index.html  
 
 ### Cinema:
-https://vc.ru/flood/13778-62-enterpreneur-movies
-https://www.kinopoisk.ru/series/767379/
+https://vc.ru/flood/13778-62-enterpreneur-movies  
+https://www.kinopoisk.ru/series/767379/  
 
 ### For people with ADHD:
-https://wikium.ru/
+https://wikium.ru/ 
 
 ### Polyphase sleep:
-https://lifehacker.ru/10-znamenitostey-kotorye-malo-spali/
+https://lifehacker.ru/10-znamenitostey-kotorye-malo-spali/  
 
 ### Articles interesting for me:
 https://habr.com/ru/post/277529/
