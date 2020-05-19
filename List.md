@@ -5,32 +5,34 @@
 https://github.com/ripienaar/free-for-dev#paas just use this repo there are 400+ useful links
 
 ### MOOC
-https://medium.com/
+https://medium.com/  
+
 
 ### Programming:
-https://ru.stackoverflow.com/
+https://ru.stackoverflow.com/  
+
 
 ### Games
-https://www.codewars.com/
-https://www.codingame.com/start
-http://www.hexinvaders.com/
-https://codecombat.com/play
-https://www.bloc.io/ruby-warrior#/
-https://checkio.org/
-https://www.microsoft.com/en-us/research/project/code-hunt/
-https://vim-adventures.com/
-https://robocode.sourceforge.io/
-https://www.cyber-dojo.org/
-https://www.codemonkey.com/
-http://play.elevatorsaga.com/
-http://www.hacker.org/
-http://flexboxfroggy.com/#ru
-https://www.pixact.ly/
-https://flukeout.github.io/
-http://www.flexboxdefense.com/
-https://alexnisnevich.github.io/untrusted/
-http://www.dungeonsanddevelopers.com/
-https://codecombat.com/play
+https://www.codewars.com/  
+https://www.codingame.com/start  
+http://www.hexinvaders.com/  
+https://codecombat.com/play  
+https://www.bloc.io/ruby-warrior#/  
+https://checkio.org/  
+https://www.microsoft.com/en-us/research/project/code-hunt/  
+https://vim-adventures.com/  
+https://robocode.sourceforge.io/  
+https://www.cyber-dojo.org/  
+https://www.codemonkey.com/  
+http://play.elevatorsaga.com/  
+http://www.hacker.org/  
+http://flexboxfroggy.com/#ru  
+https://www.pixact.ly/  
+https://flukeout.github.io/  
+http://www.flexboxdefense.com/  
+https://alexnisnevich.github.io/untrusted/  
+http://www.dungeonsanddevelopers.com/  
+https://codecombat.com/play  
 
 ### Java:
 https://docs.oracle.com/javase/tutorial/reallybigindex.html
