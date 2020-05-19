@@ -59,6 +59,7 @@ http://htmlbook.ru/css/float
 ### Design:
 https://dribbble.com/
 https://creativemarket.com/free-goods
+https://www.freepik.com/search?sort=popular&page=5&type=vectores
 
 ### Motivation:
 https://habr.com/ru/post/117333/
