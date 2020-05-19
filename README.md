@@ -64,10 +64,11 @@ https://habr.com/ru/post/277753/
 https://habr.com/ru/company/mr_gefest/blog/280370/
 
 ### Design:
-https://dribbble.com/
-https://creativemarket.com/free-goods
-https://www.freepik.com/search?sort=popular&page=5&type=vectores
-https://photoshop-master.ru/adds/web-design/21684-web-dizayn-zvzdnyie-voynyi.html
+https://dribbble.com/  
+https://creativemarket.com/free-goods  
+https://www.freepik.com/search?sort=popular&page=5&type=vectores  
+https://photoshop-master.ru/adds/web-design/21684-web-dizayn-zvzdnyie-voynyi.html  
+https://material.io/design
 
 ### Motivation:
 https://habr.com/ru/post/117333/
