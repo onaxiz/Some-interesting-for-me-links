@@ -51,9 +51,10 @@ https://ryxi.com/competitions/1#1
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ### Frontend:
-http://diveintohtml5.info/
-http://codenamecrud.ru/
-https://github.com/sorrycc/awesome-javascript
+http://diveintohtml5.info/  
+http://codenamecrud.ru/  
+https://github.com/sorrycc/awesome-javascript  
+http://htmlbook.ru/css/float  
 
 ### Design:
 https://dribbble.com/
