@@ -13,6 +13,7 @@ https://vectree.ru/main
 
 ### Programming:
 https://ru.stackoverflow.com/  
+https://qna.habr.com/
 
 
 ### Games
