@@ -57,6 +57,8 @@ http://codenamecrud.ru/
 https://github.com/sorrycc/awesome-javascript  
 http://htmlbook.ru/css/float
 http://www.net-f.ru/item/seo/
+https://photoshop-master.ru/adds/web-design/21684-web-dizayn-zvzdnyie-voynyi.html
+https://learn.javascript.ru/https://www.w3schools.com/js/js_htmldom_css.asp
 
 ### Design:
 https://dribbble.com/
