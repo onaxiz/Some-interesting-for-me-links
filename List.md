@@ -4,8 +4,16 @@
 ### DevOps
 https://github.com/ripienaar/free-for-dev#paas just use this repo there are 400+ useful links
 
+### MOOC
+https://medium.com/
+
 ### Programming:
 https://ru.stackoverflow.com/
+
+** Games ** 
+https://www.codingame.com/start
+https://codecombat.com/play
+https://www.bloc.io/ruby-warrior#/
 
 ### Java:
 https://docs.oracle.com/javase/tutorial/reallybigindex.html
