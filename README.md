@@ -46,6 +46,7 @@ https://www.securitylab.ru/news/tags/%E1%EE%F2%ED%E5%F2/
 https://habr.com/ru/post/344762/  
 
 ### Botnets:
+https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/
 
 ### Data analys:
 https://ryxi.com/competitions/1#1
