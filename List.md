@@ -1,52 +1,52 @@
 ### These are a few links grouped into categories. It is can be handy for someone.
 #### Some links in Russian
 
-## Programming:
+### Programming:
 https://ru.stackoverflow.com/
 
-## Java:
+### Java:
 https://docs.oracle.com/javase/tutorial/reallybigindex.html
 
-## Botnets:
+### Botnets:
 
-## Data analys:
+### Data analys:
 https://ryxi.com/competitions/1#1
 
-## About git with useful fetures:
+### About git with useful fetures:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-##Frontend:
+### Frontend:
 http://codenamecrud.ru/
 https://github.com/sorrycc/awesome-javascript
 
-##Design:
+### Design:
 https://dribbble.com/
 https://creativemarket.com/free-goods
 
-##Motivation:
+### Motivation:
 https://habr.com/ru/post/117333/
 
-## CTF:
+### CTF:
 
-## Librarys and news feeds:
+### Librarys and news feeds:
 https://tproger.ru/
 https://mybiblioteka.su/
 
-## Search information:
+### Search information:
 http://forundex.ru/
 
-## Forums that I needed once:
+### Forums that I needed once:
 https://programmersforum.ru/
 http://khpi-iip.mipk.kharkiv.edu/library/index.html
 
-## Cinema:
+### Cinema:
 https://vc.ru/flood/13778-62-enterpreneur-movies
 
-## For people with ADHD:
+### For people with ADHD:
 https://wikium.ru/
 
-## Polyphase sleep:
+### Polyphase sleep:
 https://lifehacker.ru/10-znamenitostey-kotorye-malo-spali/
 
-## Cosmetics:
+### Cosmetics:
 
