@@ -107,9 +107,6 @@ http://pwnable.tw/
 https://hack.me/  
 
 
-### Math:
-https://ib.mazurok.com/2014/06/07/%d1%81%d1%83%d0%bc%d0%bc%d0%b0-%d0%b8-%d0%bf%d0%b5%d1%80%d0%b5%d1%81%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%b4%d0%bf%d1%80%d0%be%d1%81%d1%82%d1%80%d0%b0%d0%bd%d1%81%d1%82%d0%b2-%d0%bf/
-
 ### Librarys and news feeds:
 https://www.piter.com/collection/biblioteka-programmista
 https://tproger.ru/
