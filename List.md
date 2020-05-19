@@ -64,5 +64,7 @@ https://lifehacker.ru/10-znamenitostey-kotorye-malo-spali/
 
 ### Articles interesting for me:
 https://habr.com/ru/post/277529/
+https://habr.com/ru/post/51130/
+
 ### Cosmetics:
 
