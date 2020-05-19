@@ -59,6 +59,7 @@ http://htmlbook.ru/css/float
 http://www.net-f.ru/item/seo/
 https://photoshop-master.ru/adds/web-design/21684-web-dizayn-zvzdnyie-voynyi.html
 https://learn.javascript.ru/https://www.w3schools.com/js/js_htmldom_css.asp
+https://habr.com/ru/post/277753/
 
 ### Design:
 https://dribbble.com/
@@ -73,37 +74,37 @@ https://lifehacker.ru/2016/02/12/infografika-10-time-killers/
 
 
 ### CTF:
-https://ctftime.org/
-https://junior.stillhackinganyway.nl/
-https://academy.hackaflag.com.br/
-http://ctf.infosecinstitute.com/
-https://captf.com/practice-ctf/
-https://www.hacksplaining.com/
-http://www.hackthissite.org/
-https://www.hacking-lab.com
-https://defcon2018.ctfd.io/
-https://ctf.hacker101.com/
-https://attackdefense.com/
-https://exploit.education/
-https://immersivelabs.com/
-http://ctf.komodosec.com/
-http://freehackquest.com/
-https://cmdchallenge.com/
-https://www.root-me.org/
-https://www.vulnhub.com/
-https://ctf.hackucf.org/
-https://cryptopals.com/
-https://tryhackme.com/
-https://hackthebox.eu
-https://w3challs.com/
-http://ctflearn.com/
-https://365.csaw.io/
-http://reversing.kr/
-https://picoctf.com/
-https://ctf365.com/
-http://hax.tor.hu/
-http://pwnable.tw/
-https://hack.me/
+https://ctftime.org/  
+https://junior.stillhackinganyway.nl/  
+https://academy.hackaflag.com.br/  
+http://ctf.infosecinstitute.com/  
+https://captf.com/practice-ctf/  
+https://www.hacksplaining.com/  
+http://www.hackthissite.org/  
+https://www.hacking-lab.com  
+https://defcon2018.ctfd.io/  
+https://ctf.hacker101.com/  
+https://attackdefense.com/  
+https://exploit.education/  
+https://immersivelabs.com/  
+http://ctf.komodosec.com/  
+http://freehackquest.com/  
+https://cmdchallenge.com/  
+https://www.root-me.org/  
+https://www.vulnhub.com/  
+https://ctf.hackucf.org/  
+https://cryptopals.com/  
+https://tryhackme.com/  
+https://hackthebox.eu  
+https://w3challs.com/  
+http://ctflearn.com/  
+https://365.csaw.io/  
+http://reversing.kr/   
+https://picoctf.com/  
+https://ctf365.com/  
+http://hax.tor.hu/ 
+http://pwnable.tw/  
+https://hack.me/  
 
 
 ### Math:
