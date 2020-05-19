@@ -10,10 +10,27 @@ https://medium.com/
 ### Programming:
 https://ru.stackoverflow.com/
 
-** Games ** 
+### Games
+https://www.codewars.com/
 https://www.codingame.com/start
+http://www.hexinvaders.com/
 https://codecombat.com/play
 https://www.bloc.io/ruby-warrior#/
+https://checkio.org/
+https://www.microsoft.com/en-us/research/project/code-hunt/
+https://vim-adventures.com/
+https://robocode.sourceforge.io/
+https://www.cyber-dojo.org/
+https://www.codemonkey.com/
+http://play.elevatorsaga.com/
+http://www.hacker.org/
+http://flexboxfroggy.com/#ru
+https://www.pixact.ly/
+https://flukeout.github.io/
+http://www.flexboxdefense.com/
+https://alexnisnevich.github.io/untrusted/
+http://www.dungeonsanddevelopers.com/
+https://codecombat.com/play
 
 ### Java:
 https://docs.oracle.com/javase/tutorial/reallybigindex.html
@@ -45,6 +62,38 @@ https://lifehacker.ru/2016/02/12/infografika-10-time-killers/
 
 
 ### CTF:
+https://ctftime.org/
+https://junior.stillhackinganyway.nl/
+https://academy.hackaflag.com.br/
+http://ctf.infosecinstitute.com/
+https://captf.com/practice-ctf/
+https://www.hacksplaining.com/
+http://www.hackthissite.org/
+https://www.hacking-lab.com
+https://defcon2018.ctfd.io/
+https://ctf.hacker101.com/
+https://attackdefense.com/
+https://exploit.education/
+https://immersivelabs.com/
+http://ctf.komodosec.com/
+http://freehackquest.com/
+https://cmdchallenge.com/
+https://www.root-me.org/
+https://www.vulnhub.com/
+https://ctf.hackucf.org/
+https://cryptopals.com/
+https://tryhackme.com/
+https://hackthebox.eu
+https://w3challs.com/
+http://ctflearn.com/
+https://365.csaw.io/
+http://reversing.kr/
+https://picoctf.com/
+https://ctf365.com/
+http://hax.tor.hu/
+http://pwnable.tw/
+https://hack.me/
+
 
 ### Math:
 https://ib.mazurok.com/2014/06/07/%d1%81%d1%83%d0%bc%d0%bc%d0%b0-%d0%b8-%d0%bf%d0%b5%d1%80%d0%b5%d1%81%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%b4%d0%bf%d1%80%d0%be%d1%81%d1%82%d1%80%d0%b0%d0%bd%d1%81%d1%82%d0%b2-%d0%bf/
