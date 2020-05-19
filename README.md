@@ -57,7 +57,6 @@ http://codenamecrud.ru/
 https://github.com/sorrycc/awesome-javascript  
 http://htmlbook.ru/css/float
 http://www.net-f.ru/item/seo/
-https://photoshop-master.ru/adds/web-design/21684-web-dizayn-zvzdnyie-voynyi.html
 https://learn.javascript.ru/https://www.w3schools.com/js/js_htmldom_css.asp
 https://habr.com/ru/post/277753/
 
@@ -65,6 +64,7 @@ https://habr.com/ru/post/277753/
 https://dribbble.com/
 https://creativemarket.com/free-goods
 https://www.freepik.com/search?sort=popular&page=5&type=vectores
+https://photoshop-master.ru/adds/web-design/21684-web-dizayn-zvzdnyie-voynyi.html
 
 ### Motivation:
 https://habr.com/ru/post/117333/
