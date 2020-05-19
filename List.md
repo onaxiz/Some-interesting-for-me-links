@@ -6,7 +6,9 @@ https://github.com/ripienaar/free-for-dev#paas just use this repo there are 400+
 
 ### MOOC
 https://medium.com/  
-
+https://geekbrains.ru/courses
+https://javarush.ru/
+https://www.sololearn.com/
 
 ### Programming:
 https://ru.stackoverflow.com/  
@@ -49,6 +51,7 @@ https://ryxi.com/competitions/1#1
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ### Frontend:
+http://diveintohtml5.info/
 http://codenamecrud.ru/
 https://github.com/sorrycc/awesome-javascript
 
@@ -101,6 +104,7 @@ https://hack.me/
 https://ib.mazurok.com/2014/06/07/%d1%81%d1%83%d0%bc%d0%bc%d0%b0-%d0%b8-%d0%bf%d0%b5%d1%80%d0%b5%d1%81%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%b4%d0%bf%d1%80%d0%be%d1%81%d1%82%d1%80%d0%b0%d0%bd%d1%81%d1%82%d0%b2-%d0%bf/
 
 ### Librarys and news feeds:
+https://www.piter.com/collection/biblioteka-programmista
 https://tproger.ru/
 https://mybiblioteka.su/
 
@@ -125,5 +129,6 @@ https://lifehacker.ru/10-znamenitostey-kotorye-malo-spali/
 https://habr.com/ru/post/277529/
 https://habr.com/ru/post/51130/
 
-### Cosmetics:
+###Art: 
+https://web-paint.ru/uroki-risovaniya/urok-4-uchimsya-risovat-trexmernyj-kub.html
 
