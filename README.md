@@ -136,7 +136,7 @@ http://hax.tor.hu/
 http://pwnable.tw/  
 https://hack.me/ 
 https://internet-lab.ru/ctf_web_pick_wisely
-
+https://www.exploit-db.com/docs/english/44756-deserialization-vulnerability.pdf
 
 ### Librarys and news feeds:
 https://www.piter.com/collection/biblioteka-programmista  
