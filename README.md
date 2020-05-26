@@ -138,6 +138,7 @@ https://lifehacker.ru/10-znamenitostey-kotorye-malo-spali/
 ### Articles interesting for me:
 https://habr.com/ru/post/277529/
 https://habr.com/ru/post/51130/
+http://8361.ru/4semb.html
 
 ### Instruments
 https://www.instapaper.com/
