@@ -70,6 +70,7 @@ https://creativemarket.com/free-goods
 https://www.freepik.com/search?sort=popular&page=5&type=vectores  
 https://photoshop-master.ru/adds/web-design/21684-web-dizayn-zvzdnyie-voynyi.html  
 https://material.io/design
+http://www.coolwebmasters.com/best-of-the-web/5402-dekabr-2015-chto-novogo-poyavilos-v-seti-dlya-veb-dizaynerov.html
 
 ### Motivation:
 https://habr.com/ru/post/117333/
