@@ -20,6 +20,7 @@ https://qna.habr.com/
 ### English
 https://www.perfect-english-grammar.com/present-simple-exercise-7.html
 http://nordmine.ru/
+https://puzzle-english.com/
 
 ### Games
 https://www.codewars.com/  
@@ -137,6 +138,7 @@ http://pwnable.tw/
 https://hack.me/ 
 https://internet-lab.ru/ctf_web_pick_wisely
 https://www.exploit-db.com/docs/english/44756-deserialization-vulnerability.pdf
+https://www.exploit-db.com/exploits/
 
 ### Librarys and news feeds:
 https://www.piter.com/collection/biblioteka-programmista  
@@ -145,6 +147,7 @@ https://mybiblioteka.su/
 https://ebanoe.it/
 http://8361.ru/4semb.html
 https://prostolinux.ru/soft/
+https://medium.com/nuances-of-programming
 
 ### Search information:  
 http://forundex.ru/  
