@@ -45,8 +45,9 @@ http://www.dungeonsanddevelopers.com/
 https://codecombat.com/play  
 
 ### Java:
-https://docs.oracle.com/javase/tutorial/reallybigindex.html 
-https://smartprogress.do/
+https://docs.oracle.com/javase/tutorial/reallybigindex.html   
+https://smartprogress.do/  
+https://metanit.com/java/  
 
 ### Security
 https://www.securitylab.ru/news/tags/%E1%EE%F2%ED%E5%F2/  
