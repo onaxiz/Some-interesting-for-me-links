@@ -12,6 +12,9 @@ https://www.sololearn.com/
 https://vectree.ru/main  
 https://stepik.org/catalog
 https://topjava.ru/#submenu:more
+https://www.edx.org/?source=aw&awc=6798_1592998827_46acfb335527bcc8ac56a4911be0d52e&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=101248_adgoal+GmbH+-+Content
+https://stepik.org/catalog
+https://openedu.ru/
 
 ### Programming:
 https://ru.stackoverflow.com/  
@@ -21,7 +24,7 @@ https://qna.habr.com/
 https://www.perfect-english-grammar.com/present-simple-exercise-7.html
 http://nordmine.ru/
 https://puzzle-english.com/
-
+https://www.duolingo.com/
 ### Games
 https://www.codewars.com/  
 https://www.codingame.com/start  
@@ -60,7 +63,9 @@ https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-intern
 https://ryxi.com/competitions/1#1
 https://drive.google.com/drive/folders/1sSrpb6hMykIDhc_OqIXFjX7NoiSirLil
 http://www.machinelearning.ru/wiki/index.php?title=%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
-### About git with useful fetures:
+
+### About git with useful features:
+https://git-scm.com/
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ### WEB:
